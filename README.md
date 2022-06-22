@@ -1,5 +1,6 @@
 # Crpto-World
 Crypto-Wolrd is a Crypto-currency react application with in depth data about top 100 crypto curriences, crypto market and exchanges.
+
 ## Tools used
 ### React js
 * React.js is a JavaSript library for building user interfaces. Its Declarative, Component-Based and Learn Once, Write Anywhere.
@@ -29,5 +30,9 @@ Crypto-Wolrd is a Crypto-currency react application with in depth data about top
 * moment 
 * react-chartjs-2
 * react-router-dom
+
+## Deployed using Netlify
+* Link https://crypto-worldapp.netlify.app/
+* Learn more about Netlify https://www.netlify.com/
 
 	 # Project is under Progress
